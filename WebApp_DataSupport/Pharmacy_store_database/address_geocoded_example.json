@@ -1,0 +1,88 @@
+{
+    "5001 West 135th Street Leawood, KS 66224": {
+        "address_components": [
+            {
+                "long_name": "5001",
+                "short_name": "5001",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "West 135th Street",
+                "short_name": "W 135th St",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Cornerstone Of Leawood",
+                "short_name": "Cornerstone Of Leawood",
+                "types": [
+                    "neighborhood",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Overland Park",
+                "short_name": "Overland Park",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Johnson County",
+                "short_name": "Johnson County",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Kansas",
+                "short_name": "KS",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "66224",
+                "short_name": "66224",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "formatted_address": "5001 West 135th Street, Overland Park, KS 66224, USA",
+        "geometry": {
+            "location": {
+                "lat": 38.8832227,
+                "lng": -94.6453705
+            },
+            "location_type": "ROOFTOP",
+            "viewport": {
+                "northeast": {
+                    "lat": 38.88457168029149,
+                    "lng": -94.6440215197085
+                },
+                "southwest": {
+                    "lat": 38.88187371970849,
+                    "lng": -94.64671948029151
+                }
+            }
+        },
+        "types": [
+            "street_address"
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+<2014-09-09 14:40:47.195000><failed to geocoding><726 Crandon Boulevard, Corner Of Wood Drive Street Key Biscaynne, FL 33049>
+<2014-09-09 14:40:47.586000><failed to geocoding><900 North J.k. Powell Boulevard Whiteville, NC 28472>
+<2014-09-09 14:40:47.979000><failed to geocoding><7600 Route 32, Po Box 140, 7600 Route 32, Po Box 140 Cairo, NY 12403>
+<2014-09-09 14:40:48.364000><failed to geocoding><805 South Dixie Road Hoopeston, IL 60942>
+<2014-09-09 14:40:48.786000><failed to geocoding><8531 LANSING HIGHWAY, DURAND MI, 48429>
+<2014-09-09 14:40:49.516000><failed to geocoding><130 AVENIDA DE DIEGO URB.  LA RIVIERA, Pueblo Viejo, PR, 00921>
+<2014-09-09 14:40:49.905000><failed to geocoding><1065 TRUMAN HWY, Boston, MA, 02136>
+<2014-09-09 14:40:50.306000><failed to geocoding><101 FORBES DR, Martinsburg, WV, 25404>
