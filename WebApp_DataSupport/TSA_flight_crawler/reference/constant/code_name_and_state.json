@@ -1,0 +1,2718 @@
+{
+    "ABE": {
+        "airport_name": "Allentown, PA",
+        "state": "PA"
+    },
+    "ABI": {
+        "airport_name": "Abilene, TX",
+        "state": "TX"
+    },
+    "ABL": {
+        "airport_name": "Ambler, AK",
+        "state": "AK"
+    },
+    "ABQ": {
+        "airport_name": "Albuquerque, NM",
+        "state": "NM"
+    },
+    "ABR": {
+        "airport_name": "Aberdeen, SD",
+        "state": "SD"
+    },
+    "ACK": {
+        "airport_name": "Nantucket, MA",
+        "state": "MA"
+    },
+    "ACT": {
+        "airport_name": "Waco, TX",
+        "state": "TX"
+    },
+    "ACV": {
+        "airport_name": "Arcata, CA",
+        "state": "CA"
+    },
+    "ADK": {
+        "airport_name": "Adak Island, AK",
+        "state": "AK"
+    },
+    "ADQ": {
+        "airport_name": "Kodiak, AK",
+        "state": "AK"
+    },
+    "AET": {
+        "airport_name": "Allakaket, AK",
+        "state": "AK"
+    },
+    "AEX": {
+        "airport_name": "Alexandria, LA",
+        "state": "LA"
+    },
+    "AGN": {
+        "airport_name": "Angoon, AK",
+        "state": "AK"
+    },
+    "AGS": {
+        "airport_name": "Augusta, GA",
+        "state": "GA"
+    },
+    "AHN": {
+        "airport_name": "Athens, GA",
+        "state": "GA"
+    },
+    "AIA": {
+        "airport_name": "Alliance, NE",
+        "state": "NE"
+    },
+    "AIN": {
+        "airport_name": "Wainwright, AK",
+        "state": "AK"
+    },
+    "AIY": {
+        "airport_name": "Atlantic City, NJ",
+        "state": "NJ"
+    },
+    "AKB": {
+        "airport_name": "Atka, AK",
+        "state": "AK"
+    },
+    "AKI": {
+        "airport_name": "Akiak, AK",
+        "state": "AK"
+    },
+    "AKN": {
+        "airport_name": "King Salmon, AK",
+        "state": "AK"
+    },
+    "AKP": {
+        "airport_name": "Anaktueuk, AK",
+        "state": "AK"
+    },
+    "ALB": {
+        "airport_name": "Albany, NY",
+        "state": "NY"
+    },
+    "ALM": {
+        "airport_name": "Alamogordo, NM",
+        "state": "NM"
+    },
+    "ALO": {
+        "airport_name": "Waterloo, IA",
+        "state": "AL"
+    },
+    "ALS": {
+        "airport_name": "Alamosa, CO",
+        "state": "CO"
+    },
+    "ALW": {
+        "airport_name": "Walla Walla, WA",
+        "state": "WA"
+    },
+    "AMA": {
+        "airport_name": "Amarillo, TX",
+        "state": "TX"
+    },
+    "ANC": {
+        "airport_name": "Anchorage, AK",
+        "state": "NC"
+    },
+    "ANI": {
+        "airport_name": "Aniak, AK",
+        "state": "AK"
+    },
+    "ANV": {
+        "airport_name": "Anvik, AK",
+        "state": "NV"
+    },
+    "AOO": {
+        "airport_name": "Altoona, PA",
+        "state": "PA"
+    },
+    "APF": {
+        "airport_name": "Naples, FL",
+        "state": "FL"
+    },
+    "APN": {
+        "airport_name": "Alpena, MI",
+        "state": "MI"
+    },
+    "ARC": {
+        "airport_name": "Arctic Village, AK",
+        "state": "AK"
+    },
+    "ART": {
+        "airport_name": "Watertown, NY",
+        "state": "NY"
+    },
+    "ASE": {
+        "airport_name": "Aspen, CO",
+        "state": "CO"
+    },
+    "ATK": {
+        "airport_name": "Atqasuk, AK",
+        "state": "AK"
+    },
+    "ATL": {
+        "airport_name": "Atlanta, GA",
+        "state": "GA"
+    },
+    "ATW": {
+        "airport_name": "Appleton, WI",
+        "state": "WI"
+    },
+    "ATY": {
+        "airport_name": "Watertown, SD",
+        "state": "SD"
+    },
+    "AUG": {
+        "airport_name": "Augusta, ME",
+        "state": "ME"
+    },
+    "AUK": {
+        "airport_name": "Alakanuk, AK",
+        "state": "AK"
+    },
+    "AUS": {
+        "airport_name": "Austin, TX",
+        "state": "TX"
+    },
+    "AVL": {
+        "airport_name": "Asheville, NC",
+        "state": "NC"
+    },
+    "AVP": {
+        "airport_name": "Scranton, PA",
+        "state": "PA"
+    },
+    "AZO": {
+        "airport_name": "Kalamazoo, MI",
+        "state": "AZ"
+    },
+    "BDL": {
+        "airport_name": "Hartford, CT",
+        "state": "CT"
+    },
+    "BED": {
+        "airport_name": "Bedford, MA",
+        "state": "MA"
+    },
+    "BEH": {
+        "airport_name": "Benton Harbor, MI",
+        "state": "MI"
+    },
+    "BET": {
+        "airport_name": "Bethel, AK",
+        "state": "AK"
+    },
+    "BFD": {
+        "airport_name": "Bradford, PA",
+        "state": "PA"
+    },
+    "BFF": {
+        "airport_name": "Scottsbluff, NE",
+        "state": "NE"
+    },
+    "BFL": {
+        "airport_name": "Bakersfield, CA",
+        "state": "FL"
+    },
+    "BGM": {
+        "airport_name": "Binghamton, NY",
+        "state": "NY"
+    },
+    "BGR": {
+        "airport_name": "Bangor, ME",
+        "state": "ME"
+    },
+    "BHB": {
+        "airport_name": "Bar Harbour, ME",
+        "state": "ME"
+    },
+    "BHM": {
+        "airport_name": "Birmingham, AL",
+        "state": "AL"
+    },
+    "BID": {
+        "airport_name": "Block Island, RI",
+        "state": "ID"
+    },
+    "BIL": {
+        "airport_name": "Billings, MT",
+        "state": "IL"
+    },
+    "BIS": {
+        "airport_name": "Bismarck, ND",
+        "state": "ND"
+    },
+    "BJI": {
+        "airport_name": "Bemidji, MN",
+        "state": "MN"
+    },
+    "BKC": {
+        "airport_name": "Buckland, AK",
+        "state": "AK"
+    },
+    "BKW": {
+        "airport_name": "Beckley, WV",
+        "state": "WV"
+    },
+    "BKX": {
+        "airport_name": "Brookings, SD",
+        "state": "SD"
+    },
+    "BLF": {
+        "airport_name": "Bluefield, WV",
+        "state": "WV"
+    },
+    "BLI": {
+        "airport_name": "Bellingham, WA",
+        "state": "WA"
+    },
+    "BLV": {
+        "airport_name": "Belleville, IL",
+        "state": "IL"
+    },
+    "BMI": {
+        "airport_name": "Bloomington, IL",
+        "state": "IL"
+    },
+    "BNA": {
+        "airport_name": "Nashville, TN",
+        "state": "TN"
+    },
+    "BOI": {
+        "airport_name": "Boise, ID",
+        "state": "ID"
+    },
+    "BOS": {
+        "airport_name": "Boston, MA",
+        "state": "MA"
+    },
+    "BPT": {
+        "airport_name": "Beaumont/Port Arthur, TX",
+        "state": "TX"
+    },
+    "BQK": {
+        "airport_name": "Brunswick, GA",
+        "state": "GA"
+    },
+    "BRD": {
+        "airport_name": "Brainerd, MN",
+        "state": "MN"
+    },
+    "BRL": {
+        "airport_name": "Burlington, IA",
+        "state": "IA"
+    },
+    "BRO": {
+        "airport_name": "Brownsville, TX",
+        "state": "TX"
+    },
+    "BRW": {
+        "airport_name": "Barrow, AK",
+        "state": "AK"
+    },
+    "BTI": {
+        "airport_name": "Barter Island, AK",
+        "state": "AK"
+    },
+    "BTM": {
+        "airport_name": "Butte, MT",
+        "state": "MT"
+    },
+    "BTR": {
+        "airport_name": "Baton Rouge, LA",
+        "state": "LA"
+    },
+    "BTT": {
+        "airport_name": "Bettles, AK",
+        "state": "AK"
+    },
+    "BTV": {
+        "airport_name": "Burlington, VT",
+        "state": "VT"
+    },
+    "BUF": {
+        "airport_name": "Buffalo, NY",
+        "state": "NY"
+    },
+    "BUR": {
+        "airport_name": "Burbank, CA",
+        "state": "CA"
+    },
+    "BWD": {
+        "airport_name": "Brawnwood, TX",
+        "state": "TX"
+    },
+    "BWG": {
+        "airport_name": "Bowling Green, KY",
+        "state": "KY"
+    },
+    "BWI": {
+        "airport_name": "Baltimore, MD",
+        "state": "WI"
+    },
+    "BYA": {
+        "airport_name": "Boundary, AK",
+        "state": "AK"
+    },
+    "BZN": {
+        "airport_name": "Bozeman, MT",
+        "state": "MT"
+    },
+    "CAE": {
+        "airport_name": "Columbia, SC",
+        "state": "CA"
+    },
+    "CAK": {
+        "airport_name": "Akron/Canton, OH",
+        "state": "CA"
+    },
+    "CBE": {
+        "airport_name": "Cumberland, MD",
+        "state": "MD"
+    },
+    "CCR": {
+        "airport_name": "Concord, CA",
+        "state": "CA"
+    },
+    "CDB": {
+        "airport_name": "Cold Bay, AK",
+        "state": "AK"
+    },
+    "CDC": {
+        "airport_name": "Cedar City, UT",
+        "state": "UT"
+    },
+    "CDR": {
+        "airport_name": "Chadron, NE",
+        "state": "NE"
+    },
+    "CDV": {
+        "airport_name": "Cordova, AK",
+        "state": "AK"
+    },
+    "CEC": {
+        "airport_name": "Crescent City, CA",
+        "state": "CA"
+    },
+    "CEM": {
+        "airport_name": "Central, AK",
+        "state": "AK"
+    },
+    "CEZ": {
+        "airport_name": "Cortez, CO",
+        "state": "CO"
+    },
+    "CFA": {
+        "airport_name": "Coffee Point, AK",
+        "state": "AK"
+    },
+    "CGA": {
+        "airport_name": "Craig, AK",
+        "state": "AK"
+    },
+    "CGI": {
+        "airport_name": "Cape Girardeau, MO",
+        "state": "MO"
+    },
+    "CGX": {
+        "airport_name": "Chicago, IL - Meigs",
+        "state": "IL"
+    },
+    "CHA": {
+        "airport_name": "Chattanooga, TN",
+        "state": "TN"
+    },
+    "CHI": {
+        "airport_name": "Chicago, IL - All airports",
+        "state": "HI"
+    },
+    "CHO": {
+        "airport_name": "Charlottesville, VA",
+        "state": "VA"
+    },
+    "CHP": {
+        "airport_name": "Circle Hot Springs, AK",
+        "state": "AK"
+    },
+    "CHS": {
+        "airport_name": "Charleston, SC",
+        "state": "SC"
+    },
+    "CHU": {
+        "airport_name": "Chuathbaluk, AK",
+        "state": "AK"
+    },
+    "CIC": {
+        "airport_name": "Chico, CA",
+        "state": "CA"
+    },
+    "CID": {
+        "airport_name": "Cedar Rapids, IA",
+        "state": "IA"
+    },
+    "CIK": {
+        "airport_name": "Chalkyitsik, AK",
+        "state": "AK"
+    },
+    "CIU": {
+        "airport_name": "Sault Ste Marie, MI,",
+        "state": "MI"
+    },
+    "CKB": {
+        "airport_name": "Clarksburg, WV",
+        "state": "WV"
+    },
+    "CKO": {
+        "airport_name": "Crooked Creek, AK",
+        "state": "AK"
+    },
+    "CKX": {
+        "airport_name": "Chicken, AK",
+        "state": "AK"
+    },
+    "CLD": {
+        "airport_name": "Carlsbad, CA",
+        "state": "CA"
+    },
+    "CLE": {
+        "airport_name": "Cleveland, OH",
+        "state": "OH"
+    },
+    "CLL": {
+        "airport_name": "College Station, TX",
+        "state": "TX"
+    },
+    "CLM": {
+        "airport_name": "Port Angeles, WA",
+        "state": "WA"
+    },
+    "CLP": {
+        "airport_name": "Clarks Point, AK",
+        "state": "AK"
+    },
+    "CLT": {
+        "airport_name": "Charlotte, NC",
+        "state": "NC"
+    },
+    "CMH": {
+        "airport_name": "Columbus, OH",
+        "state": "OH"
+    },
+    "CMI": {
+        "airport_name": "Champaign/Urbana, IL",
+        "state": "IL"
+    },
+    "CMX": {
+        "airport_name": "Hancock, MI",
+        "state": "MI"
+    },
+    "CNK": {
+        "airport_name": "Concordia, KS",
+        "state": "KS"
+    },
+    "CNM": {
+        "airport_name": "Carlsbad, NM",
+        "state": "NM"
+    },
+    "CNY": {
+        "airport_name": "Moab, UT",
+        "state": "NY"
+    },
+    "COD": {
+        "airport_name": "Cody/Yellowstone, WY",
+        "state": "WY"
+    },
+    "COS": {
+        "airport_name": "Colorado Springs, CO",
+        "state": "CO"
+    },
+    "COU": {
+        "airport_name": "Columbia, MO",
+        "state": "CO"
+    },
+    "CPR": {
+        "airport_name": "Casper, WY",
+        "state": "WY"
+    },
+    "CRP": {
+        "airport_name": "Corpus Christi, TX",
+        "state": "TX"
+    },
+    "CRW": {
+        "airport_name": "Charleston, WV",
+        "state": "WV"
+    },
+    "CSG": {
+        "airport_name": "Columbus, GA",
+        "state": "GA"
+    },
+    "CUW": {
+        "airport_name": "Cube Cove, AK",
+        "state": "AK"
+    },
+    "CVG": {
+        "airport_name": "Cincinnati, OH",
+        "state": "OH"
+    },
+    "CVN": {
+        "airport_name": "Clovis, NM",
+        "state": "NM"
+    },
+    "CVO": {
+        "airport_name": "Albany, OR - Bus service",
+        "state": "OR"
+    },
+    "CWA": {
+        "airport_name": "Stevens Point/Wausau, WI",
+        "state": "WA"
+    },
+    "CYF": {
+        "airport_name": "Chefornak, AK",
+        "state": "AK"
+    },
+    "CYS": {
+        "airport_name": "Cheyenne, WY",
+        "state": "WY"
+    },
+    "CZN": {
+        "airport_name": "Chisana, AK",
+        "state": "AK"
+    },
+    "DAB": {
+        "airport_name": "Daytona Beach, FL",
+        "state": "FL"
+    },
+    "DAY": {
+        "airport_name": "Dayton, OH",
+        "state": "OH"
+    },
+    "DBQ": {
+        "airport_name": "Dubuque, IA",
+        "state": "IA"
+    },
+    "DCA": {
+        "airport_name": "Washington DC - National",
+        "state": "CA"
+    },
+    "DDC": {
+        "airport_name": "Dodge City, KS",
+        "state": "KS"
+    },
+    "DEC": {
+        "airport_name": "Decatur, IL",
+        "state": "IL"
+    },
+    "DEN": {
+        "airport_name": "Denver, CO - International",
+        "state": "CO"
+    },
+    "DFW": {
+        "airport_name": "Dallas/Fort Worth, TX",
+        "state": "TX"
+    },
+    "DHN": {
+        "airport_name": "Dothan, AL",
+        "state": "AL"
+    },
+    "DIK": {
+        "airport_name": "Dickinson, ND",
+        "state": "ND"
+    },
+    "DJN": {
+        "airport_name": "Delta Junction, AK",
+        "state": "AK"
+    },
+    "DLG": {
+        "airport_name": "Dillingham, AK",
+        "state": "AK"
+    },
+    "DLH": {
+        "airport_name": "Duluth, MN",
+        "state": "MN"
+    },
+    "DRG": {
+        "airport_name": "Deering, AK",
+        "state": "AK"
+    },
+    "DRO": {
+        "airport_name": "Durango, CO",
+        "state": "CO"
+    },
+    "DSM": {
+        "airport_name": "Des Moines, IA",
+        "state": "IA"
+    },
+    "DTT": {
+        "airport_name": "Detroit, MI - All airports",
+        "state": "MI"
+    },
+    "DTW": {
+        "airport_name": "Detroit, MI - Metro/Wayne County",
+        "state": "MI"
+    },
+    "DUJ": {
+        "airport_name": "Dubois, PA",
+        "state": "PA"
+    },
+    "DUT": {
+        "airport_name": "Dutch Harbor, AK",
+        "state": "AK"
+    },
+    "DVL": {
+        "airport_name": "Devil's Lake, ND",
+        "state": "ND"
+    },
+    "EAR": {
+        "airport_name": "Kearney, NE",
+        "state": "NE"
+    },
+    "EAT": {
+        "airport_name": "Wenatchee, WA",
+        "state": "WA"
+    },
+    "EAU": {
+        "airport_name": "Eau Claire, WI",
+        "state": "WI"
+    },
+    "EDA": {
+        "airport_name": "Edna Bay, AK",
+        "state": "AK"
+    },
+    "EEK": {
+        "airport_name": "Eek, AK",
+        "state": "AK"
+    },
+    "EEN": {
+        "airport_name": "Keene, NH",
+        "state": "NH"
+    },
+    "EGE": {
+        "airport_name": "Vail, CO - Eagle County Airport",
+        "state": "CO"
+    },
+    "EHM": {
+        "airport_name": "Cape Newenham, AK",
+        "state": "AK"
+    },
+    "EKO": {
+        "airport_name": "Elko, NV",
+        "state": "NV"
+    },
+    "ELD": {
+        "airport_name": "El Dorado, AR",
+        "state": "AR"
+    },
+    "ELI": {
+        "airport_name": "Elim, AK",
+        "state": "AK"
+    },
+    "ELM": {
+        "airport_name": "Elmira, NY",
+        "state": "NY"
+    },
+    "ELP": {
+        "airport_name": "El Paso, TX",
+        "state": "TX"
+    },
+    "ELV": {
+        "airport_name": "Elfin Cove, AK",
+        "state": "AK"
+    },
+    "EMK": {
+        "airport_name": "Emmonak, AK",
+        "state": "AK"
+    },
+    "ENA": {
+        "airport_name": "Kenai, AK",
+        "state": "AK"
+    },
+    "ERI": {
+        "airport_name": "Erie, PA",
+        "state": "PA"
+    },
+    "ESC": {
+        "airport_name": "Escanaba, MI",
+        "state": "MI"
+    },
+    "EUE": {
+        "airport_name": "Eureka, NV",
+        "state": "NV"
+    },
+    "EUG": {
+        "airport_name": "Eugene, OR",
+        "state": "OR"
+    },
+    "EVV": {
+        "airport_name": "Evansville, IN",
+        "state": "IN"
+    },
+    "EWR": {
+        "airport_name": "Newark, NJ",
+        "state": "NJ"
+    },
+    "EYW": {
+        "airport_name": "Key West, FL",
+        "state": "FL"
+    },
+    "FAI": {
+        "airport_name": "Fairbanks, AK",
+        "state": "AK"
+    },
+    "FAR": {
+        "airport_name": "Fargo, ND",
+        "state": "ND"
+    },
+    "FAT": {
+        "airport_name": "Fresno, CA",
+        "state": "CA"
+    },
+    "FAY": {
+        "airport_name": "Fayetteville, NC",
+        "state": "NC"
+    },
+    "FKL": {
+        "airport_name": "Franklin, PA",
+        "state": "PA"
+    },
+    "FLG": {
+        "airport_name": "Flagstaff, AZ",
+        "state": "FL"
+    },
+    "FLL": {
+        "airport_name": "Fort Lauderdale, FL",
+        "state": "FL"
+    },
+    "FLO": {
+        "airport_name": "Florence, SC",
+        "state": "FL"
+    },
+    "FNL": {
+        "airport_name": "Fort Collins/Loveland, CO - Municipal Airport",
+        "state": "CO"
+    },
+    "FNT": {
+        "airport_name": "Flint, MI",
+        "state": "MI"
+    },
+    "FOD": {
+        "airport_name": "Fort Dodge, IA",
+        "state": "IA"
+    },
+    "FOE": {
+        "airport_name": "Topeka, KS",
+        "state": "KS"
+    },
+    "FSD": {
+        "airport_name": "Sioux Falls, SD",
+        "state": "SD"
+    },
+    "FSM": {
+        "airport_name": "Fort Smith, AR",
+        "state": "AR"
+    },
+    "FWA": {
+        "airport_name": "Fort Wayne, IN",
+        "state": "WA"
+    },
+    "FYV": {
+        "airport_name": "Fayetteville, AR - Municipal/Drake",
+        "state": "AR"
+    },
+    "GCC": {
+        "airport_name": "Gillette, WY",
+        "state": "WY"
+    },
+    "GCK": {
+        "airport_name": "Garden City, KS",
+        "state": "KS"
+    },
+    "GCN": {
+        "airport_name": "Grand Canyon, AZ - National Park",
+        "state": "AZ"
+    },
+    "GDV": {
+        "airport_name": "Glendive, MT",
+        "state": "MT"
+    },
+    "GEG": {
+        "airport_name": "Spokane, WA",
+        "state": "WA"
+    },
+    "GFK": {
+        "airport_name": "Grand Forks, ND",
+        "state": "ND"
+    },
+    "GGG": {
+        "airport_name": "Gladewater/Kilgore, TX",
+        "state": "TX"
+    },
+    "GGW": {
+        "airport_name": "Glasgow, MT",
+        "state": "MT"
+    },
+    "GJT": {
+        "airport_name": "Grand Junction, CO",
+        "state": "CO"
+    },
+    "GLH": {
+        "airport_name": "Greenville, MS",
+        "state": "MS"
+    },
+    "GLV": {
+        "airport_name": "Golovin, AK",
+        "state": "AK"
+    },
+    "GNU": {
+        "airport_name": "Goodnews Bay, AK",
+        "state": "AK"
+    },
+    "GNV": {
+        "airport_name": "Gainesville, FL",
+        "state": "FL"
+    },
+    "GON": {
+        "airport_name": "Groton/New London, CT",
+        "state": "CT"
+    },
+    "GPT": {
+        "airport_name": "Biloxi/Gulfport, MS",
+        "state": "MS"
+    },
+    "GPZ": {
+        "airport_name": "Grand Rapids, MN",
+        "state": "MN"
+    },
+    "GRB": {
+        "airport_name": "Green Bay, WI",
+        "state": "WI"
+    },
+    "GRI": {
+        "airport_name": "Grand Island, NE",
+        "state": "NE"
+    },
+    "GRR": {
+        "airport_name": "Grand Rapids, MI",
+        "state": "MI"
+    },
+    "GSO": {
+        "airport_name": "Greensboro, NC",
+        "state": "NC"
+    },
+    "GSP": {
+        "airport_name": "Greenville/Spartanburg, SC",
+        "state": "SC"
+    },
+    "GST": {
+        "airport_name": "Gustavus, AK",
+        "state": "AK"
+    },
+    "GTF": {
+        "airport_name": "Great Falls, MT",
+        "state": "MT"
+    },
+    "GTR": {
+        "airport_name": "Columbus, MS",
+        "state": "MS"
+    },
+    "GUC": {
+        "airport_name": "Gunnison, CO",
+        "state": "CO"
+    },
+    "GUP": {
+        "airport_name": "Gallup, NM",
+        "state": "NM"
+    },
+    "GYY": {
+        "airport_name": "Gary, IN",
+        "state": "IN"
+    },
+    "HAE": {
+        "airport_name": "Havasupai, AZ",
+        "state": "AZ"
+    },
+    "HBB": {
+        "airport_name": "Hobbs, NM",
+        "state": "NM"
+    },
+    "HCR": {
+        "airport_name": "Holy Cross, AK",
+        "state": "AK"
+    },
+    "HDN": {
+        "airport_name": "Hayden, CO",
+        "state": "CO"
+    },
+    "HGR": {
+        "airport_name": "Hagerstown, MD",
+        "state": "MD"
+    },
+    "HHH": {
+        "airport_name": "Hilton Head, SC",
+        "state": "SC"
+    },
+    "HIB": {
+        "airport_name": "Chisholm/Hibbing, MN",
+        "state": "HI"
+    },
+    "HII": {
+        "airport_name": "Lake Havasu City, AZ",
+        "state": "HI"
+    },
+    "HKB": {
+        "airport_name": "Healy Lake, AK",
+        "state": "AK"
+    },
+    "HKY": {
+        "airport_name": "Hickory, NC",
+        "state": "NC"
+    },
+    "HLN": {
+        "airport_name": "Helena, MT",
+        "state": "MT"
+    },
+    "HNH": {
+        "airport_name": "Hoonah, AK",
+        "state": "NH"
+    },
+    "HNL": {
+        "airport_name": "Honolulu, HI - Island of Oahu",
+        "state": "HI"
+    },
+    "HNM": {
+        "airport_name": "Hana, HI - Island of Maui",
+        "state": "HI"
+    },
+    "HNS": {
+        "airport_name": "Haines, AK",
+        "state": "AK"
+    },
+    "HOM": {
+        "airport_name": "Homer, AK",
+        "state": "AK"
+    },
+    "HON": {
+        "airport_name": "Huron, SD",
+        "state": "SD"
+    },
+    "HOT": {
+        "airport_name": "Hot Springs, AR",
+        "state": "AR"
+    },
+    "HOU": {
+        "airport_name": "Houston, TX - All airports",
+        "state": "TX"
+    },
+    "HPB": {
+        "airport_name": "Hooper Bay, AK",
+        "state": "AK"
+    },
+    "HPN": {
+        "airport_name": "Westchester County, NY",
+        "state": "NY"
+    },
+    "HRL": {
+        "airport_name": "Harlingen, TX",
+        "state": "TX"
+    },
+    "HRO": {
+        "airport_name": "Harrison, AR",
+        "state": "AR"
+    },
+    "HSL": {
+        "airport_name": "Huslia, AK",
+        "state": "AK"
+    },
+    "HSV": {
+        "airport_name": "Huntsville, AL",
+        "state": "AL"
+    },
+    "HTS": {
+        "airport_name": "Ashland, KY/Huntington, WV",
+        "state": "WV"
+    },
+    "HUF": {
+        "airport_name": "Terre Haute, IN",
+        "state": "IN"
+    },
+    "HUS": {
+        "airport_name": "Hughes, AK",
+        "state": "AK"
+    },
+    "HVN": {
+        "airport_name": "New Haven, CT",
+        "state": "CT"
+    },
+    "HVR": {
+        "airport_name": "Havre, MT",
+        "state": "MT"
+    },
+    "HYA": {
+        "airport_name": "Hyannis, MA",
+        "state": "MA"
+    },
+    "HYG": {
+        "airport_name": "Hydaburg, AK",
+        "state": "AK"
+    },
+    "HYL": {
+        "airport_name": "Hollis, AK",
+        "state": "AK"
+    },
+    "HYS": {
+        "airport_name": "Hays, KS",
+        "state": "KS"
+    },
+    "IAD": {
+        "airport_name": "Washington DC - Dulles",
+        "state": "IA"
+    },
+    "IAH": {
+        "airport_name": "Houston, TX - Intercontinental",
+        "state": "TX"
+    },
+    "IAN": {
+        "airport_name": "Kiana, AK",
+        "state": "AK"
+    },
+    "ICT": {
+        "airport_name": "Wichita, KS",
+        "state": "CT"
+    },
+    "IDA": {
+        "airport_name": "Idaho Falls, ID",
+        "state": "ID"
+    },
+    "IFP": {
+        "airport_name": "Bullhead City/Laughlin, AZ",
+        "state": "AZ"
+    },
+    "IGG": {
+        "airport_name": "Igiugig, AK",
+        "state": "AK"
+    },
+    "IGM": {
+        "airport_name": "Kingman, AZ",
+        "state": "AZ"
+    },
+    "IKO": {
+        "airport_name": "Nikolski, AK",
+        "state": "AK"
+    },
+    "ILE": {
+        "airport_name": "Killeen, TX",
+        "state": "TX"
+    },
+    "ILI": {
+        "airport_name": "Iliamna, AK",
+        "state": "AK"
+    },
+    "ILM": {
+        "airport_name": "Wilmington, NC",
+        "state": "NC"
+    },
+    "IMT": {
+        "airport_name": "Iron Mountain, MI",
+        "state": "MI"
+    },
+    "IND": {
+        "airport_name": "Indianapolis, IN",
+        "state": "ND"
+    },
+    "INL": {
+        "airport_name": "International Falls, MN",
+        "state": "IN"
+    },
+    "IPL": {
+        "airport_name": "El Centro, CA",
+        "state": "CA"
+    },
+    "IPT": {
+        "airport_name": "Williamsport, PA",
+        "state": "PA"
+    },
+    "IRC": {
+        "airport_name": "Circle, AK",
+        "state": "AK"
+    },
+    "IRK": {
+        "airport_name": "Kirksville, MO",
+        "state": "MO"
+    },
+    "ISN": {
+        "airport_name": "Williston, ND",
+        "state": "ND"
+    },
+    "ISP": {
+        "airport_name": "Islip, NY",
+        "state": "NY"
+    },
+    "ITH": {
+        "airport_name": "Ithaca, NY",
+        "state": "NY"
+    },
+    "ITO": {
+        "airport_name": "Hilo, HI - Island of Hawaii",
+        "state": "HI"
+    },
+    "IWD": {
+        "airport_name": "Ironwood, MI",
+        "state": "MI"
+    },
+    "IYK": {
+        "airport_name": "Inyokern, CA",
+        "state": "CA"
+    },
+    "JAC": {
+        "airport_name": "Jackson Hole, WY",
+        "state": "WY"
+    },
+    "JAN": {
+        "airport_name": "Jackson, MS",
+        "state": "MS"
+    },
+    "JAX": {
+        "airport_name": "Jacksonville, FL",
+        "state": "FL"
+    },
+    "JBR": {
+        "airport_name": "Jonesboro, AR",
+        "state": "AR"
+    },
+    "JFK": {
+        "airport_name": "New York, NY - Kennedy",
+        "state": "NY"
+    },
+    "JGC": {
+        "airport_name": "Grand Canyon, AZ - Heliport",
+        "state": "AZ"
+    },
+    "JHM": {
+        "airport_name": "Kapalua, HI - Island of Maui,",
+        "state": "HI"
+    },
+    "JHW": {
+        "airport_name": "Jamestown, NY",
+        "state": "NY"
+    },
+    "JLN": {
+        "airport_name": "Joplin, MO",
+        "state": "MO"
+    },
+    "JMS": {
+        "airport_name": "Jamestown, ND",
+        "state": "ND"
+    },
+    "JNU": {
+        "airport_name": "Juneau, AK",
+        "state": "AK"
+    },
+    "JST": {
+        "airport_name": "Johnstown, PA",
+        "state": "PA"
+    },
+    "JVL": {
+        "airport_name": "Janesville, WI",
+        "state": "WI"
+    },
+    "KAE": {
+        "airport_name": "Kake, AK",
+        "state": "AK"
+    },
+    "KAL": {
+        "airport_name": "Kaltag, AK",
+        "state": "AK"
+    },
+    "KBC": {
+        "airport_name": "Birch Creek, AK",
+        "state": "AK"
+    },
+    "KCC": {
+        "airport_name": "Coffman Cove, AK",
+        "state": "AK"
+    },
+    "KCG": {
+        "airport_name": "Chignik, AK - Fisheries",
+        "state": "AK"
+    },
+    "KCL": {
+        "airport_name": "Chignik, AK - Lagoon",
+        "state": "AK"
+    },
+    "KCQ": {
+        "airport_name": "Chignik, AK -",
+        "state": "AK"
+    },
+    "KEK": {
+        "airport_name": "Ekwok, AK",
+        "state": "AK"
+    },
+    "KGK": {
+        "airport_name": "New Koliganek, AK",
+        "state": "AK"
+    },
+    "KGX": {
+        "airport_name": "Grayling, AK",
+        "state": "AK"
+    },
+    "KKH": {
+        "airport_name": "Kongiganak, AK",
+        "state": "AK"
+    },
+    "KKI": {
+        "airport_name": "Akiachak, AK",
+        "state": "AK"
+    },
+    "KKU": {
+        "airport_name": "Ekuk, AK",
+        "state": "AK"
+    },
+    "KLG": {
+        "airport_name": "Kalskag, AK",
+        "state": "AK"
+    },
+    "KLL": {
+        "airport_name": "Levelock, AK",
+        "state": "AK"
+    },
+    "KLW": {
+        "airport_name": "Klawock, AK",
+        "state": "AK"
+    },
+    "KMO": {
+        "airport_name": "Manokotak, AK",
+        "state": "AK"
+    },
+    "KNK": {
+        "airport_name": "Kakhonak, AK",
+        "state": "AK"
+    },
+    "KNW": {
+        "airport_name": "New Stuyahok, AK",
+        "state": "AK"
+    },
+    "KOA": {
+        "airport_name": "Kona, HI - Island of Hawaii",
+        "state": "HI"
+    },
+    "KOT": {
+        "airport_name": "Kotlik, AK",
+        "state": "AK"
+    },
+    "KPB": {
+        "airport_name": "Point Baker, AK",
+        "state": "AK"
+    },
+    "KPC": {
+        "airport_name": "Port Clarence, AK",
+        "state": "AK"
+    },
+    "KPN": {
+        "airport_name": "Kipnuk, AK",
+        "state": "AK"
+    },
+    "KPV": {
+        "airport_name": "Perryville, AK",
+        "state": "AK"
+    },
+    "KQA": {
+        "airport_name": "Akuton, AK",
+        "state": "AK"
+    },
+    "KSM": {
+        "airport_name": "Saint Mary's, AK",
+        "state": "AK"
+    },
+    "KTB": {
+        "airport_name": "Thorne Bay, AK",
+        "state": "AK"
+    },
+    "KTN": {
+        "airport_name": "Ketchikan, AK",
+        "state": "TN"
+    },
+    "KTS": {
+        "airport_name": "Teller Mission, AK",
+        "state": "AK"
+    },
+    "KUK": {
+        "airport_name": "Kasigluk, AK",
+        "state": "AK"
+    },
+    "KVC": {
+        "airport_name": "King Cove, AK",
+        "state": "AK"
+    },
+    "KVL": {
+        "airport_name": "Kivalina, AK",
+        "state": "AK"
+    },
+    "KWF": {
+        "airport_name": "Waterfall, AK",
+        "state": "AK"
+    },
+    "KWK": {
+        "airport_name": "Kwigillingok, AK",
+        "state": "AK"
+    },
+    "KWN": {
+        "airport_name": "Quinhagak, AK",
+        "state": "AK"
+    },
+    "KWT": {
+        "airport_name": "Kwethluk, AK",
+        "state": "AK"
+    },
+    "KXA": {
+        "airport_name": "Kasaan, AK",
+        "state": "AK"
+    },
+    "KYU": {
+        "airport_name": "Koyukuk, AK",
+        "state": "AK"
+    },
+    "LAF": {
+        "airport_name": "Lafayette, IN",
+        "state": "LA"
+    },
+    "LAN": {
+        "airport_name": "Lansing, MI",
+        "state": "LA"
+    },
+    "LAR": {
+        "airport_name": "Laramie, WY",
+        "state": "WY"
+    },
+    "LAS": {
+        "airport_name": "Las Vegas, NV",
+        "state": "LA"
+    },
+    "LAW": {
+        "airport_name": "Lawton, OK",
+        "state": "LA"
+    },
+    "LAX": {
+        "airport_name": "Los Angeles, CA",
+        "state": "LA"
+    },
+    "LBB": {
+        "airport_name": "Lubbock, TX",
+        "state": "TX"
+    },
+    "LBE": {
+        "airport_name": "Latrobe, PA",
+        "state": "PA"
+    },
+    "LBF": {
+        "airport_name": "North Platte, NE",
+        "state": "NE"
+    },
+    "LBL": {
+        "airport_name": "Liberal, KS",
+        "state": "KS"
+    },
+    "LCH": {
+        "airport_name": "Lake Charles, LA",
+        "state": "LA"
+    },
+    "LEB": {
+        "airport_name": "Hanover, NH",
+        "state": "NH"
+    },
+    "LEX": {
+        "airport_name": "Lexington, KY",
+        "state": "KY"
+    },
+    "LFT": {
+        "airport_name": "Lafayette, LA",
+        "state": "LA"
+    },
+    "LGA": {
+        "airport_name": "New York, NY - La Guardia",
+        "state": "NY"
+    },
+    "LGB": {
+        "airport_name": "Long Beach, CA",
+        "state": "CA"
+    },
+    "LIH": {
+        "airport_name": "Kauai Island/Lihue, HI",
+        "state": "HI"
+    },
+    "LIT": {
+        "airport_name": "Little Rock, AR",
+        "state": "AR"
+    },
+    "LKE": {
+        "airport_name": "Seattle, WA - Lake Union SPB",
+        "state": "WA"
+    },
+    "LMA": {
+        "airport_name": "Lake Minchumina, AK",
+        "state": "AK"
+    },
+    "LMT": {
+        "airport_name": "Klamath Falls, OR",
+        "state": "MT"
+    },
+    "LNK": {
+        "airport_name": "Lincoln, NE",
+        "state": "NE"
+    },
+    "LNS": {
+        "airport_name": "Lancaster, PA",
+        "state": "PA"
+    },
+    "LNY": {
+        "airport_name": "Lanai City, HI - Island of Lanai",
+        "state": "HI"
+    },
+    "LPS": {
+        "airport_name": "Lopez Island, WA",
+        "state": "WA"
+    },
+    "LRD": {
+        "airport_name": "Laredo, TX",
+        "state": "TX"
+    },
+    "LSE": {
+        "airport_name": "La Crosse, WI",
+        "state": "WI"
+    },
+    "LUP": {
+        "airport_name": "Kalaupapa, HI - Island of Molokai,",
+        "state": "HI"
+    },
+    "LUR": {
+        "airport_name": "Cape Lisburne, AK",
+        "state": "AK"
+    },
+    "LWB": {
+        "airport_name": "Lewisburg, WV",
+        "state": "WV"
+    },
+    "LWS": {
+        "airport_name": "Lewiston, ID",
+        "state": "ID"
+    },
+    "LWT": {
+        "airport_name": "Lewistown, MT",
+        "state": "MT"
+    },
+    "LYU": {
+        "airport_name": "Ely, MN",
+        "state": "MN"
+    },
+    "MAF": {
+        "airport_name": "Midland/Odessa, TX",
+        "state": "TX"
+    },
+    "MBL": {
+        "airport_name": "Manistee, MI",
+        "state": "MI"
+    },
+    "MBS": {
+        "airport_name": "Bay City, MI",
+        "state": "MI"
+    },
+    "MCE": {
+        "airport_name": "Merced, CA",
+        "state": "CA"
+    },
+    "MCG": {
+        "airport_name": "Mcgrath, AK",
+        "state": "AK"
+    },
+    "MCI": {
+        "airport_name": "Kansas City, MO",
+        "state": "MO"
+    },
+    "MCK": {
+        "airport_name": "Mccook, NE",
+        "state": "NE"
+    },
+    "MCN": {
+        "airport_name": "Macon, GA",
+        "state": "GA"
+    },
+    "MCO": {
+        "airport_name": "Orlando, FL - International",
+        "state": "FL"
+    },
+    "MCW": {
+        "airport_name": "Mason City, IA",
+        "state": "IA"
+    },
+    "MDH": {
+        "airport_name": "Carbondale, IL",
+        "state": "IL"
+    },
+    "MDJ": {
+        "airport_name": "Madras, OR",
+        "state": "MD"
+    },
+    "MDT": {
+        "airport_name": "Harrisburg, PA",
+        "state": "PA"
+    },
+    "MDW": {
+        "airport_name": "Chicago, IL - Midway",
+        "state": "IL"
+    },
+    "MEI": {
+        "airport_name": "Meridian, MS",
+        "state": "ME"
+    },
+    "MEM": {
+        "airport_name": "Memphis, TN",
+        "state": "TN"
+    },
+    "MFE": {
+        "airport_name": "Mcallen, TX",
+        "state": "TX"
+    },
+    "MFR": {
+        "airport_name": "Medford, OR",
+        "state": "OR"
+    },
+    "MGM": {
+        "airport_name": "Montgomery, AL",
+        "state": "AL"
+    },
+    "MGW": {
+        "airport_name": "Morgantown, WV",
+        "state": "WV"
+    },
+    "MHK": {
+        "airport_name": "Manhattan, KS",
+        "state": "KS"
+    },
+    "MHT": {
+        "airport_name": "Manchester, NH",
+        "state": "NH"
+    },
+    "MIA": {
+        "airport_name": "Miami, FL - International",
+        "state": "FL"
+    },
+    "MKE": {
+        "airport_name": "Milwaukee, WI",
+        "state": "WI"
+    },
+    "MKG": {
+        "airport_name": "Muskegon, MI",
+        "state": "MI"
+    },
+    "MKK": {
+        "airport_name": "Hoolehua, HI - Island of Molokai",
+        "state": "HI"
+    },
+    "MKL": {
+        "airport_name": "Jackson, TN",
+        "state": "TN"
+    },
+    "MKT": {
+        "airport_name": "Mankato, MN",
+        "state": "MN"
+    },
+    "MLB": {
+        "airport_name": "Melbourne, FL",
+        "state": "FL"
+    },
+    "MLI": {
+        "airport_name": "Moline, IL",
+        "state": "IL"
+    },
+    "MLL": {
+        "airport_name": "Marshall, AK",
+        "state": "AK"
+    },
+    "MLS": {
+        "airport_name": "Miles City, MT",
+        "state": "MT"
+    },
+    "MLU": {
+        "airport_name": "Monroe, LA",
+        "state": "LA"
+    },
+    "MLY": {
+        "airport_name": "Manley Hot Springs, AK",
+        "state": "AK"
+    },
+    "MNT": {
+        "airport_name": "Minto, AK",
+        "state": "AK"
+    },
+    "MOB": {
+        "airport_name": "Mobile, AL",
+        "state": "AL"
+    },
+    "MOD": {
+        "airport_name": "Modesto, CA",
+        "state": "CA"
+    },
+    "MOT": {
+        "airport_name": "Minot, ND",
+        "state": "ND"
+    },
+    "MOU": {
+        "airport_name": "Mountain Village, AK",
+        "state": "AK"
+    },
+    "MPB": {
+        "airport_name": "Miami, FL - Sea Plane Base",
+        "state": "FL"
+    },
+    "MQT": {
+        "airport_name": "Marquette, MI",
+        "state": "MI"
+    },
+    "MRY": {
+        "airport_name": "Carmel, CA",
+        "state": "CA"
+    },
+    "MSL": {
+        "airport_name": "Florence/Muscle Shoals/Sheffield, AL",
+        "state": "AL"
+    },
+    "MSN": {
+        "airport_name": "Madison, WI",
+        "state": "WI"
+    },
+    "MSO": {
+        "airport_name": "Missoula, MT",
+        "state": "MT"
+    },
+    "MSP": {
+        "airport_name": "Minneapolis, MN",
+        "state": "MN"
+    },
+    "MSS": {
+        "airport_name": "Massena, NY",
+        "state": "NY"
+    },
+    "MSY": {
+        "airport_name": "New Orleans, LA",
+        "state": "LA"
+    },
+    "MTJ": {
+        "airport_name": "Montrose, CO",
+        "state": "CO"
+    },
+    "MTM": {
+        "airport_name": "Metlakatla, AK",
+        "state": "AK"
+    },
+    "MUE": {
+        "airport_name": "Kamuela, HI - Island of Hawaii,",
+        "state": "HI"
+    },
+    "MVY": {
+        "airport_name": "Martha's Vineyard, MA",
+        "state": "MA"
+    },
+    "MWA": {
+        "airport_name": "Marion, IL",
+        "state": "WA"
+    },
+    "MWH": {
+        "airport_name": "Moses Lake, WA",
+        "state": "WA"
+    },
+    "MYR": {
+        "airport_name": "Myrtle Beach, SC",
+        "state": "SC"
+    },
+    "MYU": {
+        "airport_name": "Mekoryuk, AK",
+        "state": "AK"
+    },
+    "NCN": {
+        "airport_name": "New Chenega, AK",
+        "state": "NC"
+    },
+    "NIB": {
+        "airport_name": "Nikolai, AK",
+        "state": "AK"
+    },
+    "NKI": {
+        "airport_name": "Naukiti, AK",
+        "state": "AK"
+    },
+    "NLG": {
+        "airport_name": "Nelson Lagoon, AK",
+        "state": "AK"
+    },
+    "NME": {
+        "airport_name": "Nightmute, AK",
+        "state": "NM"
+    },
+    "NNL": {
+        "airport_name": "Nondalton, AK",
+        "state": "AK"
+    },
+    "NUI": {
+        "airport_name": "Nuiqsut, AK",
+        "state": "AK"
+    },
+    "NUL": {
+        "airport_name": "Nulato, AK",
+        "state": "AK"
+    },
+    "NUP": {
+        "airport_name": "Nunapitchuk, AK",
+        "state": "AK"
+    },
+    "NYC": {
+        "airport_name": "New York, NY - All airports",
+        "state": "NY"
+    },
+    "OAJ": {
+        "airport_name": "Jacksonville, NC",
+        "state": "NC"
+    },
+    "OAK": {
+        "airport_name": "Oakland, CA",
+        "state": "CA"
+    },
+    "OBU": {
+        "airport_name": "Kobuk, AK",
+        "state": "AK"
+    },
+    "OFK": {
+        "airport_name": "Norfolk, NE",
+        "state": "NE"
+    },
+    "OGG": {
+        "airport_name": "Kahului, HI - Island of Maui,",
+        "state": "HI"
+    },
+    "OGS": {
+        "airport_name": "Ogdensburg, NY",
+        "state": "NY"
+    },
+    "OKC": {
+        "airport_name": "Oklahoma City, OK",
+        "state": "OK"
+    },
+    "OMA": {
+        "airport_name": "Omaha, NE",
+        "state": "NE"
+    },
+    "OME": {
+        "airport_name": "Nome, AK",
+        "state": "AK"
+    },
+    "ONT": {
+        "airport_name": "Ontario, CA",
+        "state": "CA"
+    },
+    "OOK": {
+        "airport_name": "Toksook Bay, AK",
+        "state": "AK"
+    },
+    "ORD": {
+        "airport_name": "Chicago, IL - O'Hare",
+        "state": "IL"
+    },
+    "ORF": {
+        "airport_name": "Norfolk, VA",
+        "state": "VA"
+    },
+    "ORH": {
+        "airport_name": "Worcester, MA",
+        "state": "MA"
+    },
+    "ORL": {
+        "airport_name": "Orlando, FL - Herndon",
+        "state": "FL"
+    },
+    "ORT": {
+        "airport_name": "Northway, AK",
+        "state": "AK"
+    },
+    "ORV": {
+        "airport_name": "Noorvik, AK",
+        "state": "AK"
+    },
+    "OSH": {
+        "airport_name": "Oshkosh, WI",
+        "state": "WI"
+    },
+    "OTH": {
+        "airport_name": "North Bend, OR",
+        "state": "OR"
+    },
+    "OTM": {
+        "airport_name": "Ottumwa, IA",
+        "state": "IA"
+    },
+    "OTZ": {
+        "airport_name": "Kotzebue, AK",
+        "state": "AK"
+    },
+    "OWB": {
+        "airport_name": "Owensboro, KY",
+        "state": "KY"
+    },
+    "OXR": {
+        "airport_name": "Oxnard/Ventura, CA",
+        "state": "CA"
+    },
+    "PAH": {
+        "airport_name": "Paducah, KY",
+        "state": "PA"
+    },
+    "PAK": {
+        "airport_name": "Hanapepe, HI",
+        "state": "HI"
+    },
+    "PBI": {
+        "airport_name": "West Palm Beach, FL",
+        "state": "FL"
+    },
+    "PCA": {
+        "airport_name": "Portage Creek, AK",
+        "state": "CA"
+    },
+    "PDB": {
+        "airport_name": "Pedro Bay, AK",
+        "state": "AK"
+    },
+    "PDT": {
+        "airport_name": "Pendleton, OR",
+        "state": "OR"
+    },
+    "PDX": {
+        "airport_name": "Portland, OR",
+        "state": "OR"
+    },
+    "PEC": {
+        "airport_name": "Pelican, AK",
+        "state": "AK"
+    },
+    "PFN": {
+        "airport_name": "Panama City, FL",
+        "state": "FL"
+    },
+    "PGA": {
+        "airport_name": "Page, AZ",
+        "state": "GA"
+    },
+    "PGV": {
+        "airport_name": "Greenville, NC",
+        "state": "NC"
+    },
+    "PHF": {
+        "airport_name": "Hampton, VA",
+        "state": "VA"
+    },
+    "PHL": {
+        "airport_name": "Philadelphia, PA - International",
+        "state": "PA"
+    },
+    "PHO": {
+        "airport_name": "Point Hope, AK",
+        "state": "AK"
+    },
+    "PHX": {
+        "airport_name": "Phoenix, AZ",
+        "state": "AZ"
+    },
+    "PIA": {
+        "airport_name": "Peoria, IL",
+        "state": "IL"
+    },
+    "PIB": {
+        "airport_name": "Laurel, MS",
+        "state": "MS"
+    },
+    "PIE": {
+        "airport_name": "Clearwater/St Petersburg, FL",
+        "state": "FL"
+    },
+    "PIH": {
+        "airport_name": "Pocatello, ID",
+        "state": "ID"
+    },
+    "PIP": {
+        "airport_name": "Pilot Point, AK",
+        "state": "AK"
+    },
+    "PIR": {
+        "airport_name": "Pierre, SD",
+        "state": "SD"
+    },
+    "PIT": {
+        "airport_name": "Pittsburgh, PA",
+        "state": "PA"
+    },
+    "PIZ": {
+        "airport_name": "Point Lay, AK",
+        "state": "AK"
+    },
+    "PKA": {
+        "airport_name": "Napaskiak, AK",
+        "state": "AK"
+    },
+    "PKB": {
+        "airport_name": "Marietta, OH/Parkersburg, WV",
+        "state": "WV"
+    },
+    "PLB": {
+        "airport_name": "Plattsburgh, NY",
+        "state": "NY"
+    },
+    "PLN": {
+        "airport_name": "Pellston, MI",
+        "state": "MI"
+    },
+    "PML": {
+        "airport_name": "Port Moller, AK",
+        "state": "AK"
+    },
+    "PNC": {
+        "airport_name": "Ponca City, OK",
+        "state": "NC"
+    },
+    "PNS": {
+        "airport_name": "Pensacola, FL",
+        "state": "FL"
+    },
+    "POU": {
+        "airport_name": "Poughkeepsie, NY",
+        "state": "NY"
+    },
+    "PPV": {
+        "airport_name": "Port Protection, AK",
+        "state": "AK"
+    },
+    "PQI": {
+        "airport_name": "Presque Isle, ME",
+        "state": "ME"
+    },
+    "PQS": {
+        "airport_name": "Pilot Station, AK",
+        "state": "AK"
+    },
+    "PRC": {
+        "airport_name": "Prescott, AZ",
+        "state": "AZ"
+    },
+    "PSC": {
+        "airport_name": "Pasco, WA",
+        "state": "WA"
+    },
+    "PSE": {
+        "airport_name": "Ponce, Puerto Rico",
+        "state": "SD"
+    },
+    "PSG": {
+        "airport_name": "Petersburg, AK",
+        "state": "AK"
+    },
+    "PSM": {
+        "airport_name": "Portsmouth, NH",
+        "state": "NH"
+    },
+    "PSP": {
+        "airport_name": "Palm Springs, CA",
+        "state": "CA"
+    },
+    "PTA": {
+        "airport_name": "Port Alsworth, AK",
+        "state": "AK"
+    },
+    "PTH": {
+        "airport_name": "Port Heiden, AK",
+        "state": "AK"
+    },
+    "PTU": {
+        "airport_name": "Platinum, AK",
+        "state": "AK"
+    },
+    "PUB": {
+        "airport_name": "Pueblo, CO",
+        "state": "CO"
+    },
+    "PUW": {
+        "airport_name": "Pullman, WA",
+        "state": "WA"
+    },
+    "PVC": {
+        "airport_name": "Provincetown, MA",
+        "state": "MA"
+    },
+    "PVD": {
+        "airport_name": "Providence, RI",
+        "state": "RI"
+    },
+    "PWM": {
+        "airport_name": "Portland, ME",
+        "state": "ME"
+    },
+    "QBF": {
+        "airport_name": "Vail, CO - Van service",
+        "state": "CO"
+    },
+    "QCE": {
+        "airport_name": "Copper Mountain, CO - Van service",
+        "state": "CO"
+    },
+    "QKB": {
+        "airport_name": "Breckonridge, CO - Van service",
+        "state": "CO"
+    },
+    "QKS": {
+        "airport_name": "Keystone, CO - Van service",
+        "state": "CO"
+    },
+    "QWF": {
+        "airport_name": "Fort Collins/Loveland, CO - Bus service",
+        "state": "CO"
+    },
+    "QWM": {
+        "airport_name": "Denver, CO - Longmont Bus service",
+        "state": "CO"
+    },
+    "QWY": {
+        "airport_name": "Albany, OR - Bus service",
+        "state": "WY"
+    },
+    "RAP": {
+        "airport_name": "Rapid City, SD",
+        "state": "SD"
+    },
+    "RBH": {
+        "airport_name": "Brooks Lodge, AK",
+        "state": "AK"
+    },
+    "RBY": {
+        "airport_name": "Ruby, AK",
+        "state": "AK"
+    },
+    "RCE": {
+        "airport_name": "Roche Harbor, WA",
+        "state": "WA"
+    },
+    "RDD": {
+        "airport_name": "Redding, CA",
+        "state": "CA"
+    },
+    "RDG": {
+        "airport_name": "Reading, PA",
+        "state": "PA"
+    },
+    "RDM": {
+        "airport_name": "Redmond, OR",
+        "state": "OR"
+    },
+    "RDU": {
+        "airport_name": "Durham, NC",
+        "state": "NC"
+    },
+    "RDV": {
+        "airport_name": "Red Devil, AK",
+        "state": "AK"
+    },
+    "RHI": {
+        "airport_name": "Rhinelander, WI,",
+        "state": "WI"
+    },
+    "RIC": {
+        "airport_name": "Richmond, VA",
+        "state": "VA"
+    },
+    "RIW": {
+        "airport_name": "Riverton, WY",
+        "state": "WY"
+    },
+    "RKD": {
+        "airport_name": "Rockland, ME",
+        "state": "ME"
+    },
+    "RKS": {
+        "airport_name": "Rock Springs, WY",
+        "state": "WY"
+    },
+    "RMP": {
+        "airport_name": "Rampart, AK",
+        "state": "AK"
+    },
+    "RNO": {
+        "airport_name": "Reno, NV",
+        "state": "NV"
+    },
+    "ROA": {
+        "airport_name": "Roanoke, VA",
+        "state": "VA"
+    },
+    "ROC": {
+        "airport_name": "Rochester, NY",
+        "state": "NY"
+    },
+    "ROW": {
+        "airport_name": "Roswell, NM",
+        "state": "NM"
+    },
+    "RSH": {
+        "airport_name": "Russian Mission, AK",
+        "state": "AK"
+    },
+    "RSJ": {
+        "airport_name": "Rosario, WA",
+        "state": "WA"
+    },
+    "RST": {
+        "airport_name": "Rochester, MN",
+        "state": "MN"
+    },
+    "RSW": {
+        "airport_name": "Fort Myers, FL",
+        "state": "FL"
+    },
+    "RUT": {
+        "airport_name": "Rutland, VT",
+        "state": "VT"
+    },
+    "SAF": {
+        "airport_name": "Santa Fe, NM",
+        "state": "NM"
+    },
+    "SAN": {
+        "airport_name": "San Diego, CA",
+        "state": "CA"
+    },
+    "SAT": {
+        "airport_name": "San Antonio, TX",
+        "state": "TX"
+    },
+    "SAV": {
+        "airport_name": "Savannah, GA",
+        "state": "GA"
+    },
+    "SBA": {
+        "airport_name": "Santa Barbara, CA",
+        "state": "CA"
+    },
+    "SBN": {
+        "airport_name": "South Bend, IN",
+        "state": "IN"
+    },
+    "SBP": {
+        "airport_name": "San Luis Obispo, CA",
+        "state": "CA"
+    },
+    "SBS": {
+        "airport_name": "Steamboat Springs, CO",
+        "state": "CO"
+    },
+    "SBY": {
+        "airport_name": "Salisbury-Ocean City, MD",
+        "state": "MD"
+    },
+    "SCC": {
+        "airport_name": "Prudhoe Bay/Deadhorse, AK",
+        "state": "AK"
+    },
+    "SCE": {
+        "airport_name": "State College/University Park, PA",
+        "state": "PA"
+    },
+    "SCK": {
+        "airport_name": "Stockton, CA",
+        "state": "CA"
+    },
+    "SCM": {
+        "airport_name": "Scammon Bay, AK",
+        "state": "AK"
+    },
+    "SDF": {
+        "airport_name": "Louisville, KY",
+        "state": "KY"
+    },
+    "SDL": {
+        "airport_name": "Scottsdale, AZ",
+        "state": "AZ"
+    },
+    "SDP": {
+        "airport_name": "Sand Point, AK",
+        "state": "AK"
+    },
+    "SEA": {
+        "airport_name": "Seattle, WA - Seattle/Tacoma International",
+        "state": "WA"
+    },
+    "SFO": {
+        "airport_name": "San Francisco, CA",
+        "state": "CA"
+    },
+    "SGF": {
+        "airport_name": "Springfield, MO",
+        "state": "MO"
+    },
+    "SGU": {
+        "airport_name": "Saint George, UT",
+        "state": "UT"
+    },
+    "SGY": {
+        "airport_name": "Skagway, AK",
+        "state": "AK"
+    },
+    "SHD": {
+        "airport_name": "Staunton, VA",
+        "state": "VA"
+    },
+    "SHG": {
+        "airport_name": "Shungnak, AK",
+        "state": "AK"
+    },
+    "SHH": {
+        "airport_name": "Shishmaref, AK",
+        "state": "AK"
+    },
+    "SHR": {
+        "airport_name": "Sheridan, WY",
+        "state": "WY"
+    },
+    "SHV": {
+        "airport_name": "Shreveport, LA",
+        "state": "LA"
+    },
+    "SHX": {
+        "airport_name": "Shageluk, AK",
+        "state": "AK"
+    },
+    "SIT": {
+        "airport_name": "Sitka, AK",
+        "state": "AK"
+    },
+    "SJC": {
+        "airport_name": "San Jose, CA",
+        "state": "CA"
+    },
+    "SJT": {
+        "airport_name": "San Angelo, TX",
+        "state": "TX"
+    },
+    "SJU": {
+        "airport_name": "San Juan, Puerto Rico",
+        "state": "SD"
+    },
+    "SKK": {
+        "airport_name": "Shaktoolik, AK",
+        "state": "AK"
+    },
+    "SLC": {
+        "airport_name": "Salt Lake City, UT",
+        "state": "UT"
+    },
+    "SLE": {
+        "airport_name": "Salem, OR",
+        "state": "OR"
+    },
+    "SLK": {
+        "airport_name": "Saranac Lake, NY",
+        "state": "NY"
+    },
+    "SLN": {
+        "airport_name": "Salina, KS",
+        "state": "KS"
+    },
+    "SLQ": {
+        "airport_name": "Sleetmore, AK",
+        "state": "AK"
+    },
+    "SMF": {
+        "airport_name": "Sacramento, CA",
+        "state": "CA"
+    },
+    "SMK": {
+        "airport_name": "Saint Michael, AK",
+        "state": "AK"
+    },
+    "SMX": {
+        "airport_name": "Santa Maria, CA",
+        "state": "CA"
+    },
+    "SNA": {
+        "airport_name": "Orange County, CA",
+        "state": "CA"
+    },
+    "SNP": {
+        "airport_name": "Saint Paul Island, AK",
+        "state": "AK"
+    },
+    "SOP": {
+        "airport_name": "Southern Pines, NC",
+        "state": "NC"
+    },
+    "SPI": {
+        "airport_name": "Springfield, IL",
+        "state": "IL"
+    },
+    "SPS": {
+        "airport_name": "Wichita Falls, TX",
+        "state": "TX"
+    },
+    "SRQ": {
+        "airport_name": "Sarasota, FL",
+        "state": "FL"
+    },
+    "SRV": {
+        "airport_name": "Stony River, AK",
+        "state": "AK"
+    },
+    "STC": {
+        "airport_name": "Saint Cloud, MN",
+        "state": "MN"
+    },
+    "STG": {
+        "airport_name": "Saint George Island, AK",
+        "state": "AK"
+    },
+    "STL": {
+        "airport_name": "Saint Louis, MO",
+        "state": "MO"
+    },
+    "STS": {
+        "airport_name": "Santa Rosa, CA",
+        "state": "CA"
+    },
+    "SUN": {
+        "airport_name": "Hailey, ID",
+        "state": "ID"
+    },
+    "SUX": {
+        "airport_name": "Sioux City, IA",
+        "state": "IA"
+    },
+    "SVA": {
+        "airport_name": "Savoonga, AK",
+        "state": "VA"
+    },
+    "SVC": {
+        "airport_name": "Silver City, NM",
+        "state": "NM"
+    },
+    "SVS": {
+        "airport_name": "Stevens Village, AK",
+        "state": "AK"
+    },
+    "SWD": {
+        "airport_name": "Seward, AK",
+        "state": "AK"
+    },
+    "SWF": {
+        "airport_name": "Newburgh/Stewart Field, NY",
+        "state": "NY"
+    },
+    "SXP": {
+        "airport_name": "Sheldon Point, AK",
+        "state": "AK"
+    },
+    "SYR": {
+        "airport_name": "Syracuse, NY",
+        "state": "NY"
+    },
+    "TAL": {
+        "airport_name": "Tanana, AK",
+        "state": "AK"
+    },
+    "TBN": {
+        "airport_name": "Fort Leonard Wood, MO",
+        "state": "MO"
+    },
+    "TCL": {
+        "airport_name": "Tuscaloosa, AL",
+        "state": "AL"
+    },
+    "TCT": {
+        "airport_name": "Takotna, AK",
+        "state": "AK"
+    },
+    "TEH": {
+        "airport_name": "Tetlin, AK",
+        "state": "AK"
+    },
+    "TEK": {
+        "airport_name": "Tatitlek, AK",
+        "state": "AK"
+    },
+    "TEX": {
+        "airport_name": "Telluride, CO",
+        "state": "CO"
+    },
+    "TKA": {
+        "airport_name": "Talkeetna, AK",
+        "state": "AK"
+    },
+    "TKE": {
+        "airport_name": "Tenakee Springs, AK",
+        "state": "AK"
+    },
+    "TKJ": {
+        "airport_name": "Tok, AK",
+        "state": "AK"
+    },
+    "TLH": {
+        "airport_name": "Tallahassee, FL",
+        "state": "FL"
+    },
+    "TLT": {
+        "airport_name": "Tuluksak, AK",
+        "state": "AK"
+    },
+    "TNC": {
+        "airport_name": "Tin City, AK",
+        "state": "NC"
+    },
+    "TNK": {
+        "airport_name": "Tununak, AK",
+        "state": "TN"
+    },
+    "TOG": {
+        "airport_name": "Togiak Village, AK",
+        "state": "AK"
+    },
+    "TOL": {
+        "airport_name": "Toledo, OH",
+        "state": "OH"
+    },
+    "TPA": {
+        "airport_name": "Tampa, FL",
+        "state": "FL"
+    },
+    "TRI": {
+        "airport_name": "Bristol, VA",
+        "state": "VA"
+    },
+    "TSM": {
+        "airport_name": "Taos, NM",
+        "state": "NM"
+    },
+    "TTN": {
+        "airport_name": "Philadelphia, PA - Trenton/Mercer NJ",
+        "state": "NJ"
+    },
+    "TUL": {
+        "airport_name": "Tulsa, OK",
+        "state": "OK"
+    },
+    "TUP": {
+        "airport_name": "Tupelo, MS",
+        "state": "MS"
+    },
+    "TUS": {
+        "airport_name": "Tucson, AZ",
+        "state": "AZ"
+    },
+    "TVC": {
+        "airport_name": "Traverse City, MI",
+        "state": "MI"
+    },
+    "TVF": {
+        "airport_name": "Thief River Falls, MN",
+        "state": "MN"
+    },
+    "TWA": {
+        "airport_name": "Twin Hills, AK",
+        "state": "WA"
+    },
+    "TWF": {
+        "airport_name": "Twin Falls, ID",
+        "state": "ID"
+    },
+    "TXK": {
+        "airport_name": "Texarkana, AR",
+        "state": "TX"
+    },
+    "TYR": {
+        "airport_name": "Tyler, TX",
+        "state": "TX"
+    },
+    "TYS": {
+        "airport_name": "Knoxville, TN",
+        "state": "TN"
+    },
+    "UCA": {
+        "airport_name": "Utica, NY",
+        "state": "NY"
+    },
+    "UGB": {
+        "airport_name": "Pilot Point, AK - Ugashnik Bay",
+        "state": "AK"
+    },
+    "UIN": {
+        "airport_name": "Quincy, IL",
+        "state": "IL"
+    },
+    "UNK": {
+        "airport_name": "Unalakleet, AK",
+        "state": "AK"
+    },
+    "UTO": {
+        "airport_name": "Utopia Creek, AK",
+        "state": "AK"
+    },
+    "VAK": {
+        "airport_name": "Chevak, AK",
+        "state": "VA"
+    },
+    "VCT": {
+        "airport_name": "Victoria, TX",
+        "state": "TX"
+    },
+    "VDZ": {
+        "airport_name": "Valdez, AK",
+        "state": "AK"
+    },
+    "VEE": {
+        "airport_name": "Venetie, AK",
+        "state": "AK"
+    },
+    "VEL": {
+        "airport_name": "Vernal, UT",
+        "state": "UT"
+    },
+    "VIS": {
+        "airport_name": "Visalia, CA",
+        "state": "CA"
+    },
+    "VLD": {
+        "airport_name": "Valdosta, GA",
+        "state": "GA"
+    },
+    "VPS": {
+        "airport_name": "Fort Walton Beach, FL",
+        "state": "FL"
+    },
+    "WAA": {
+        "airport_name": "Wales, AK",
+        "state": "WA"
+    },
+    "WAS": {
+        "airport_name": "Washington DC - All airports",
+        "state": "WA"
+    },
+    "WBB": {
+        "airport_name": "Stebbins, AK",
+        "state": "AK"
+    },
+    "WBQ": {
+        "airport_name": "Beaver, AK",
+        "state": "AK"
+    },
+    "WBU": {
+        "airport_name": "Boulder, CO - Municipal Airport",
+        "state": "CO"
+    },
+    "WDG": {
+        "airport_name": "Enid, OK",
+        "state": "OK"
+    },
+    "WHH": {
+        "airport_name": "Boulder, CO - Hiltons Har H",
+        "state": "CO"
+    },
+    "WKK": {
+        "airport_name": "Aleknagik, AK",
+        "state": "AK"
+    },
+    "WLK": {
+        "airport_name": "Selawik, AK",
+        "state": "AK"
+    },
+    "WMH": {
+        "airport_name": "Mountain Home, AR",
+        "state": "AR"
+    },
+    "WMK": {
+        "airport_name": "Meyers Chuck, AK",
+        "state": "AK"
+    },
+    "WMO": {
+        "airport_name": "White Mountain, AK",
+        "state": "AK"
+    },
+    "WNA": {
+        "airport_name": "Napakiak, AK",
+        "state": "AK"
+    },
+    "WRG": {
+        "airport_name": "Wrangell, AK",
+        "state": "AK"
+    },
+    "WRL": {
+        "airport_name": "Worland, WY",
+        "state": "WY"
+    },
+    "WSN": {
+        "airport_name": "South Naknek, AK",
+        "state": "AK"
+    },
+    "WST": {
+        "airport_name": "Westerly, RI",
+        "state": "RI"
+    },
+    "WSX": {
+        "airport_name": "Westsound, WA",
+        "state": "WA"
+    },
+    "WTK": {
+        "airport_name": "Noatak, AK",
+        "state": "AK"
+    },
+    "WTL": {
+        "airport_name": "Tuntutuliak, AK",
+        "state": "AK"
+    },
+    "WWP": {
+        "airport_name": "Whale Pass, AK",
+        "state": "AK"
+    },
+    "WWT": {
+        "airport_name": "Newtok, AK",
+        "state": "AK"
+    },
+    "WYS": {
+        "airport_name": "West Yellowstone, MT",
+        "state": "WY"
+    },
+    "XHH": {
+        "airport_name": "Boulder, CO - Bus service",
+        "state": "CO"
+    },
+    "XNA": {
+        "airport_name": "Fayetteville, AR - Northwest Arkansas Regional",
+        "state": "AR"
+    },
+    "YAK": {
+        "airport_name": "Yakutat, AK",
+        "state": "AK"
+    },
+    "YKM": {
+        "airport_name": "Yakima, WA",
+        "state": "WA"
+    },
+    "YNG": {
+        "airport_name": "Youngstown, OH",
+        "state": "OH"
+    },
+    "YUM": {
+        "airport_name": "Yuma, AZ",
+        "state": "AZ"
+    },
+    "ZBV": {
+        "airport_name": "Beaver Creek, CO - Van service",
+        "state": "CO"
+    },
+    "ZRF": {
+        "airport_name": "Rockford, IL - Park&Ride Bus",
+        "state": "IL"
+    },
+    "ZRK": {
+        "airport_name": "Rockford, IL - Van Galder Bus",
+        "state": "IL"
+    }
+}
